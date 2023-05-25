@@ -1,2 +1,5 @@
-# d_s_a
-a repository dedicated to my dsa practise questions
+### day 1 :
+1. reverse.cpp
+2. minmaxarray.cpp
+3. minmaxgame.cpp
+
