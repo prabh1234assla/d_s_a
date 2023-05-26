@@ -24,6 +24,5 @@ int minimumDeletions(vector<int>& nums) {
 int main(){
     vector<int> s = {1, -3000, 5, 18, -100, 29, 89999, 11, 9, 7};
     cout << minimumDeletions(s) << endl;
-
     return 0;
 }

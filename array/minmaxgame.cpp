@@ -27,7 +27,6 @@ int minMaxGame(vector<int>& nums) {
 
 int main(){
     vector<int> s = {810,831,908,631,554,917,392,544};
-    // 
     cout << minMaxGame(s) << endl;
 
     return 0;
