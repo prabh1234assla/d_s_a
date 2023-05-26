@@ -7,3 +7,4 @@
 1. kthmax.cpp
 2. kthmaxSTRING.cpp
 3. kthmatrix.cpp
+4. dotColors.cpp
