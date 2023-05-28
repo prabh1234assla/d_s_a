@@ -8,3 +8,14 @@
 2. kthmaxSTRING.cpp
 3. kthmatrix.cpp
 4. dotColors.cpp
+
+### day 3 :
+1. romanToInt.cpp
+2. palindrome.cpp
+3. linkedListAdd.cpp
+
+### day 4 :
+1. intersection.cpp
+2. intersection2.cpp
+3. moveZeroes.cpp
+4. rearrangeElsBySign.cpp
