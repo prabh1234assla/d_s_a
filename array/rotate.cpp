@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
     void rotate(vector<int>& nums, int k) {
-        int count = 1, start = 0, temp = nums[start];
+        int count = 1, start = 0, end ;
 
-        while(count <= k){
+        while(count != k+1){
             nums[start] = nums[(start+1)]
         }
 
